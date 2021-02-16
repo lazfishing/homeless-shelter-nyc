@@ -1,0 +1,272 @@
+[
+ {
+   "name": "Grand Central Neighbourhood Social Services Corp.",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "The Grand Central Neighborhood Social Services Corporation is a nonprofit organization committed to providing immediate relief to Midtown Manhattan’s homeless population.",
+   "website": "http://www.grandcentralneighborhood.org/",
+   "lng": -73.98139,
+   "lat": 40.74534,
+   "address": "120 E 32nd St, New York, NY 10016, United States"
+ },
+ {
+   "name": "HRA Men's Shelter",
+   "type": "Shelter",
+   "eligibility": "Men only",
+   "description": "Intake, Assessment, and General Population shelter for homeless men. Intake center for homeless men who are new to the DHS shelter system or who have not resided in the DHS system for over 12 months.",
+   "website": "https://www.coalitionforthehomeless.org/resources/30th-street-mens-shelter/?query=30th%20street%20&filter=",
+   "lng": -73.97478,
+   "lat": 40.74089,
+   "address": "400 E 30th St, New York, NY 10016, United States"
+ },
+ {
+   "name": "Franklin Women's Shelter",
+   "type": "Shelter",
+   "eligibility": "Women only",
+   "description": "No description available",
+   "website": "https://www.coalitionforthehomeless.org/resources/franklin-avenue-armory-womens-shelter/",
+   "lng": -73.90576,
+   "lat": 40.82821,
+   "address": "1122 Franklin Ave, The Bronx, NY 10456, United States"
+ },
+ {
+   "name": "Adult Family Intake Center (AFIC)",
+   "type": "Shelter",
+   "eligibility": "Families without minor children",
+   "description": "Citywide shelter intake center for homeless adult families, including homeless couples (domestic partnership required) with no children and families with no family members under 18 years of age.",
+   "website": "https://www.coalitionforthehomeless.org/resources/adult-family-intake-center/",
+   "lng": -73.97486,
+   "lat": 40.74066,
+   "address": ""
+ },
+ {
+   "name": "Prevention and Temporary Housing (PATH)",
+   "type": "Shelter",
+   "eligibility": "Families with minors (18 & under)",
+   "description": "PATH is the citywide shelter intake center for homeless families with children with no other housing options available to them.",
+   "website": "https://www.coalitionforthehomeless.org/resources/prevention-assistance-and-temporary-housing-office-path/#:~:text=PATH%20is%20the%20citywide%20shelter,housing%20options%20available%20to%20them.",
+   "lng": -73.9276,
+   "lat": 40.82187,
+   "address": "151 E 151st St, The Bronx, NY 10451, United States"
+ },
+ {
+   "name": "Ali Forney Center",
+   "type": "Shelter",
+   "eligibility": "16-24 youth",
+   "description": "Our mission is to protect LGBTQ youths from the harms of homelessness and empower them with the tools needed to live independently. ",
+   "website": "https://www.aliforneycenter.org/",
+   "lng": -73.95229,
+   "lat": 40.81088,
+   "address": "321 W 125th St, New York, NY 10027, United States"
+ },
+ {
+   "name": "Ali Forney Center",
+   "type": "Shelter",
+   "eligibility": "16-24 youth",
+   "description": "Our mission is to protect LGBTQ youths from the harms of homelessness and empower them with the tools needed to live independently. ",
+   "website": "https://www.aliforneycenter.org/",
+   "lng": -73.9914,
+   "lat": 40.75187,
+   "address": "224 W 35th St, New York, NY 10123, United States"
+ },
+ {
+   "name": "Covenant House",
+   "type": "Shelter",
+   "eligibility": "16-24 youth",
+   "description": "Covenant House New York is proud to be New York City’s largest provider serving youth experiencing homelessness.",
+   "website": "https://ny.covenanthouse.org/",
+   "lng": -73.84708,
+   "lat": 40.84052,
+   "address": "2501 Glebe Ave, The Bronx, NY 10461, United States"
+ },
+ {
+   "name": "Covenant House",
+   "type": "Shelter",
+   "eligibility": "16-24 youth",
+   "description": "Covenant House New York is proud to be New York City’s largest provider serving youth experiencing homelessness.",
+   "website": "https://ny.covenanthouse.org/",
+   "lng": -73.99596,
+   "lat": 40.75848,
+   "address": "550 10th Ave, New York, NY 10018, United States"
+ },
+ {
+   "name": "Safe Horizon",
+   "type": "Shelter",
+   "eligibility": "16-24 youth",
+   "description": "Safe Horizon is the nation’s leading victim assistance organization. Our mission is to provide support, prevent violence, and promote justice for victims of crime and abuse, their families and communities.",
+   "website": "https://www.safehorizon.org/",
+   "lng": -74.00391,
+   "lat": 40.71406,
+   "address": "2 Lafayette St, New York, NY 10007, United States"
+ },
+ {
+   "name": "Living Room",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "The Living Room is the only 24-hour drop-in center in the Bronx for street homeless adults. ",
+   "website": "http://www.bronxworks.org/living-room-safe-havens",
+   "lng": -73.88972,
+   "lat": 40.81691,
+   "address": "800 Barretto St, The Bronx, NY 10474, United States"
+ },
+ {
+   "name": "Mainchance",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "A Program of Grand Central Neighborhood Social Services Corporation, which runs the largest Multi-Service Center for homeless adults in New York City.",
+   "website": "https://www.mainchance.org/",
+   "lng": -73.98142,
+   "lat": 40.74528,
+   "address": "120 E 32nd St, New York, NY 10016, United States"
+ },
+ {
+   "name": "Olivieri Center for Homeless",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "For homeless men and women have who lived on the streets for multiple years, and resist entering the shelter system or long-term treatment programs, the Olivieri Drop-In Center offers on-site, 24-hour services including meals, clothing, and showers.",
+   "website": "https://www.urbanpathways.org/programsandservices",
+   "lng": -73.99434,
+   "lat": 40.74943,
+   "address": "257 W 30th St, New York, NY 10001, United States"
+ },
+ {
+   "name": "Project Hospitality Drop-In Center",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "For over 30 years, we have provided Food and Nutrition services through Soup Kitchens and Food Pantries.",
+   "website": "https://projecthospitality.org/",
+   "lng": -74.13426,
+   "lat": 40.63564,
+   "address": "100 Park Ave, Staten Island, NY 10302, United States"
+ },
+ {
+   "name": "Breaking Ground",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "Breaking Ground’s mission is to strengthen individuals, families and communities by developing and sustaining exceptional supportive and affordable housing as well as programs for homeless and other vulnerable New Yorkers.",
+   "website": "https://breakingground.org/",
+   "lng": -73.99321,
+   "lat": 40.75317,
+   "address": "505 8th Ave, New York, NY 10018, United States"
+ },
+ {
+   "name": "The Gathering Place",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "The Gathering Place Drop-in Center serves single men and women who are homeless, 18 and older, 24 hours per day, seven days a week, year round.",
+   "website": "https://camba.org/programs/drop-in-center-respite-program/",
+   "lng": -73.91182,
+   "lat": 40.6697,
+   "address": "1667 Pitkin Ave, Brooklyn, NY 11212, United States"
+ },
+ {
+   "name": "The Open Door",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "The Open Door NJNY gives immigrant families the support they need to be strong, contributing members of society. We do this by offering weekly English, TASC, and computer classes as well as community building activities.",
+   "website": "http://www.theopendoornjny.org/",
+   "lng": -74.01262,
+   "lat": 40.78342,
+   "address": "5501 Park Ave, West New York, NJ 07093, United States"
+ },
+ {
+   "name": "Neighborhood Coalition for Shelter",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "Neighborhood Coalition for Shelter (NCS) helps New Yorkers who are struggling with homelessness, often compounded by mental illness or substance use, to achieve their highest level of independence.",
+   "website": "https://www.ncsinc.org/",
+   "lng": -73.96449,
+   "lat": 40.72246,
+   "address": "921 Madison Ave, New York, NY 10021, United States"
+ },
+ {
+   "name": "Neighborhood Coalition for Shelter",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "Neighborhood Coalition for Shelter (NCS) helps New Yorkers who are struggling with homelessness, often compounded by mental illness or substance use, to achieve their highest level of independence.",
+   "website": "https://www.ncsinc.org/",
+   "lng": -74.01228,
+   "lat": 40.70609,
+   "address": "50 Broadway Suite 1301, New York, NY 10004, United States"
+ },
+ {
+   "name": "BRC Project Rescue",
+   "type": "Drop-In Center",
+   "eligibility": "No restrictions",
+   "description": "The Bowery Mission serves homeless and hungry New Yorkers and provides services that meet their immediate needs and transforms their lives from poverty and hopelessness to hope.",
+   "website": "https://www.bowery.org/",
+   "lng": -73.99186,
+   "lat": 40.7252,
+   "address": "313 Bowery, New York, NY 10003, United States"
+ },
+ {
+   "name": "HRA Men's Shelter",
+   "type": "Intake Center",
+   "eligibility": "Men only",
+   "description": "Intake, Assessment, and General Population shelter for homeless men. Intake center for homeless men who are new to the DHS shelter system or who have not resided in the DHS system for over 12 months.",
+   "website": "https://www.coalitionforthehomeless.org/resources/30th-street-mens-shelter/?query=30th%20street%20&filter=",
+   "lng": -73.97478,
+   "lat": 40.74089,
+   "address": "400 E 30th St, New York, NY 10016, United States"
+ },
+ {
+   "name": "Franklin Women's Shelter",
+   "type": "Intake Center",
+   "eligibility": "Women only",
+   "description": "No description available",
+   "website": "https://www.coalitionforthehomeless.org/resources/franklin-avenue-armory-womens-shelter/",
+   "lng": -73.90576,
+   "lat": 40.82821,
+   "address": "1122 Franklin Ave, The Bronx, NY 10456, United States"
+ },
+ {
+   "name": "Breaking Ground Shelter Haven",
+   "type": "Shelter",
+   "eligibility": "No restrictions",
+   "description": "Breaking Ground’s mission is to strengthen individuals, families and communities by developing and sustaining exceptional supportive and affordable housing as well as programs for homeless and other vulnerable New Yorkers.",
+   "website": "https://breakingground.org/",
+   "lng": -73.93283,
+   "lat": 40.65715,
+   "address": "E 49th St, Brooklyn, NY 11203, United States"
+ },
+ {
+   "name": "Bailey House Inc.",
+   "type": "Shelter",
+   "eligibility": "No restrictions",
+   "description": "Bailey House has been providing housing and supportive services for people living with HIV/AIDS and other chronic illness for more than three decades.",
+   "website": "https://www.baileyhouse.org/",
+   "lng": -73.94037,
+   "lat": 40.80266,
+   "address": "1751 Park Ave, New York, NY 10035, United States"
+ },
+ {
+   "name": "BRC Project Rescue",
+   "type": "Shelter",
+   "eligibility": "No restrictions",
+   "description": "The Bowery Mission serves homeless and hungry New Yorkers and provides services that meet their immediate needs and transforms their lives from poverty and hopelessness to hope.",
+   "website": "https://www.bowery.org/",
+   "lng": -73.99186,
+   "lat": 40.7252,
+   "address": "313 Bowery, New York, NY 10003, United States"
+ },
+ {
+   "name": "Catholic Charities of The Archdiocese of New York",
+   "type": "Shelter",
+   "eligibility": "No restrictions",
+   "description": "Catholic Charities of New York depends on you to meet the needs of the poor and vulnerable throughout New York City and upstate New York. ",
+   "website": "https://catholiccharitiesny.org/",
+   "lng": -73.96398,
+   "lat": 40.75745,
+   "address": "1011 1st Avenue, New York, NY 10022, United States"
+ },
+ {
+   "name": "Bethany House",
+   "type": "Shelter",
+   "eligibility": "Women only",
+   "description": "For forty years, Bethany House has been very busy growing and adapting to the changing needs of the homeless community here in Nassau County.",
+   "website": "https://bhny.org/",
+   "lng": -73.92626,
+   "lat": 40.69921,
+   "address": "164 Suydam St, Brooklyn, NY 11221, United States"
+ }
+]
